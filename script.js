@@ -74,7 +74,7 @@ var config = {
     BACK_COLOR: { r: 0, g: 14, b: 26 },
     TRANSPARENT: false,
     BLOOM: false,
-    BLOOM_ITERATIONS: 8,
+    BLOOM_ITERATIONS: 0,
     BLOOM_RESOLUTION: 256,
     BLOOM_INTENSITY: 0,
     BLOOM_THRESHOLD: 0,
